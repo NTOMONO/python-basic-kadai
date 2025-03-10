@@ -4,4 +4,4 @@ height = 5
 
 area = (top_side+bottom_side)*height/2
 
-print (str(area)+"cm^2")
+print(str(area)+"cm^2")
